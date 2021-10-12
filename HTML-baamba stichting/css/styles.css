@@ -1,0 +1,46 @@
+body{
+  background-color: #EAF6F6;
+}
+
+H1 {
+  color: #66BFBF;
+}
+H3 {
+  color: #66BFBF;
+
+}
+
+.fit-picture {
+    width: 20px;
+    padding:
+}
+
+hr {
+background-color: white;
+border-style: dotted none none;
+border-color: grey;
+border-width: 5px;
+width: 5%;
+}
+
+figure {
+  margin: 20;
+}
+
+aside {
+    width: 40%;
+    padding-left: .5rem;
+    margin-left: .5rem;
+    float: right;
+    box-shadow: inset 5px 0 5px -5px #29627e;
+    font-style: italic;
+    color: #29627e;
+}
+
+aside > p {
+    margin: .5rem;
+}
+
+p {
+    font-family: 'Fira Sans', sans-serif;
+}
